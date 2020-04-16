@@ -8,7 +8,7 @@ Goals
 
 # 1. Create a development machine in Compute Engine > VM Instances
 
-![Image](../master/images/1.gif?raw=true)
+![Image](../master/images/1.png?raw=true)
 
 # 2. SSH into the instance and create SSH keys
 
