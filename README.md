@@ -52,3 +52,8 @@ sbt assembly
 # 12.	Check our bucket in Storage – Out Directory
 ![Image](../master/images/14.png?raw=true)
 ![Image](../master/images/15.png?raw=true)
+
+# 13. Downloaded image vs Out image
+-Notice the out images has the faces outlined
+![Image](../master/images/16.png?raw=true)
+![Image](../master/images/17.png?raw=true)
