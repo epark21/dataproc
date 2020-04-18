@@ -53,7 +53,10 @@ sbt assembly
 ![Image](../master/images/14.png?raw=true)
 ![Image](../master/images/15.png?raw=true)
 
-# 13. Downloaded image vs Out image
--Notice the out images has the faces outlined
+# 13. Download image vs Out image
+
+-This is the image download from the publice domain site
 ![Image](../master/images/16.png?raw=true)
+
+-This is the out image 
 ![Image](../master/images/17.png?raw=true)
