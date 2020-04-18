@@ -55,8 +55,8 @@ sbt assembly
 
 # 13. Download image vs Out image
 
--This is the image download from the publice domain site
+-This is the image download from the public domain site
 ![Image](../master/images/16.png?raw=true)
 
--This is the out image 
+-This is the out image with faces outlined
 ![Image](../master/images/17.png?raw=true)
