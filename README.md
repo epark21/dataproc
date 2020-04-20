@@ -60,3 +60,6 @@ sbt assembly
 
 -This is the out image with faces outlined
 ![Image](../master/images/17.png?raw=true)
+
+# Check out my demo video
+https://youtu.be/54MWVv4soss
